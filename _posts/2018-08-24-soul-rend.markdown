@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Soul Rend"
+date:   2014-08-24
+source: PHB.999
+tags: [cantrip]
+---
+
+**necromancy cantrip**
+
+**Casting Time**: 1 action
+
+**Range**: 30 feet
+
+**Components**: V, S, M (The Octarine Orb)
+
+**Duration**: Instantaneous
+
+A cold vacuum emnantes from the orb and pulls at the target's life force, yanking a piece of their soul into the orb. The target must succeed at a Constituition saving throw or take 1d8 necrotic damage.
+
+When the caster deals damage with this spell, they gain one quarter (rounded up) of the damage delt as temporary hit points, or one half if the spell kills the target.
+
+This spell's damage increase by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8) 

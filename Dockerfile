@@ -2,4 +2,5 @@ FROM jekyll/jekyll:latest
 ADD ./ /var/www/
 WORKDIR /var/www
 RUN chmod -R a+rwx /var/www
-ENTRYPOINT ["jekyll", "serve", "-Vw","--no-watch", "--port", "8080"]
+RUN jekyll build
+ENTRYPOINT ["jekyll", "serve", "-Vw","--incremental", "--skip-initial-build", "--no-watch", "--port", "8080"]
